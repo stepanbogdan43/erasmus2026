@@ -1,0 +1,5 @@
+#Ignora toate folderele de compilare
+output/
+build/
+dist/
+bin/
