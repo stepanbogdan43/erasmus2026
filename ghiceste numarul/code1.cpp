@@ -35,7 +35,6 @@ int main() {
 
     } 
     while (ghicire != randomnumber && incercari>0);
-
     return 0;
 }
  
