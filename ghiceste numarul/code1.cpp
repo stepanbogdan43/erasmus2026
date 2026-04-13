@@ -35,6 +35,7 @@ int main() {
 
     } 
     while (ghicire != randomnumber && incercari>0);
+    cout<<"Numarul era "<< randomnumber<<endl;
     return 0;
 }
  
